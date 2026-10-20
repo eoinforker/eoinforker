@@ -9,7 +9,7 @@ I build [immiscible](https://immiscible.ai): control what your AI agents spend a
 
 <a href="https://eoinforker.github.io/orbe-site/"><img src="orbe.svg" alt="Orbe: the Portal mark, ink on sky" width="56" align="left" hspace="14"></a>
 
-**[orbe](https://eoinforker.github.io/orbe-site/)**, creator tooling: every upload rated against creators your size, so growing feels like a game that actually helps. Plus tools to earn fairly and protect your work, paid for by the companies around creators.
+**[orbe](https://eoinforker.github.io/orbe-site/)**, get paid what your work is worth: every upload rated against creators your size and checked against real payouts, so brands pay in full only when a sponsored read delivers. Free for creators, and agent-ready, with MCP tools and an `orbe` command line.
 <br clear="left">
 
 <a href="https://immiscible.ai"><img src="immiscible.svg" alt="immiscible: the cardinal squares" width="56" align="left" hspace="14"></a>
