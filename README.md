@@ -7,7 +7,12 @@ I build [immiscible](https://immiscible.ai): agents ask a person before they do 
 **[idyll](https://idyll.day)**, social without the scroll, for eleven social apps on Android and iPhone: the feeds come out and your friends stay. Free, for good, and nothing leaves your phone. Coming soon, with Chrome too.
 <br clear="left">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="notebook-dark.svg">
-  <img src="notebook-light.svg" alt="project immiscible, recorded by eoinforker, 2026" width="100%">
-</picture>
+<a href="https://eoinforker.github.io/orbe-site/"><img src="orbe.svg" alt="Orbe: the Portal mark, ink on sky" width="56" align="left" hspace="14"></a>
+
+**[orbe](https://eoinforker.github.io/orbe-site/)**, creator tooling: every upload rated against creators your size, so growing feels like a game that actually helps. Plus tools to earn fairly and protect your work, paid for by the companies around creators.
+<br clear="left">
+
+<a href="https://immiscible.ai"><img src="immiscible.svg" alt="immiscible: a terminal window" width="56" align="left" hspace="14"></a>
+
+**[immiscible](https://immiscible.ai)**, a pause before agents act: when an agent is about to do something it can’t take back, like a payment, a person decides whether it goes ahead.
+<br clear="left">
