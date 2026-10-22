@@ -13,12 +13,15 @@ I build products around AI agents, end to end: the agent integrations, the backe
 
 <a href="https://eoinforker.github.io/orbe-site/"><img src="orbe.svg" alt="Orbe: the Portal mark, ink on sky" width="56" align="left" hspace="14"></a>
 
-**[orbe](https://eoinforker.github.io/orbe-site/)** (WIP): every upload rated against creators the same size, so brands can pay in full only when a sponsored read is verified as delivered. Built and tested, not yet live.
+**[orbe](https://eoinforker.github.io/orbe-site/)** (WIP): run your creator business on one console. Every upload rated against creators the same size, the brands that back creators like you, deals priced and drafted for you, and sponsor reads paid in full only when delivery is verified. Built and tested, not yet live.
 <br clear="left">
 
-- Eleven MCP tools and an `orbe` command line, so an AI agent can rate a creator, price a sponsorship or check delivery instead of guessing.
-- A model router for new titles and thumbnails (OpenRouter, Claude, fal, Replicate), with checks that hold back anything misleading and charges only when a change measurably lifts an upload.
-- AI-written advice that must cite the creator's own numbers; a validator rejects any claim the data does not support.
+- A deals assistant that drafts and counters inside the creator's limits, cites every number from their own data, and never accepts or sends without their tap.
+- Sponsorship detection across podcasts, newsletters and YouTube, measured at 96% precision on a hand-checked sample of real podcast show notes.
+- A server-side video pipeline: transcripts, moments ranked against creators the same size, clips that never cut a paid read, and articles that only say what was said.
+- Teams with owner sign-off on money, consent and rights, and twelve MCP tools so an AI agent can rate, price or check delivery instead of guessing.
+
+<a href="https://eoinforker.github.io/orbe-site/"><img src="orbe-console.webp" alt="The Orbe console home: a soft painted sky band, the headline Make something worth backing., a composer and three quick starts, with made-up demo data" width="100%"></a>
 
 <a href="https://idyll.day"><img src="idyll.svg" alt="Idyll: a cygnet printed in halftone dots" width="56" align="left" hspace="14"></a>
 
