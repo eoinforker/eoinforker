@@ -13,15 +13,13 @@ I build products around AI agents, end to end: the agent integrations, the backe
 
 <a href="https://eoinforker.github.io/orbe-site/"><img src="orbe.svg" alt="Orbe: the Portal mark, ink on sky" width="56" align="left" hspace="14"></a>
 
-**[orbe](https://eoinforker.github.io/orbe-site/)** (WIP): run your creator business on one console. Every upload rated against creators the same size, the brands that back creators like you, deals priced and drafted for you, and sponsor reads paid in full only when delivery is verified. Built and tested, not yet live.
+**[orbe](https://eoinforker.github.io/orbe-site/)** (WIP): the creator's side of sponsorship deals. Brands are getting agents; creators get Orbe. A creator or their manager sets the rules once, and Orbe answers every offer within a minute, accepting, countering or declining with the reason. Anything binding waits for one tap, and the brand's money is held until delivery is verified from the creator's own data. Built and tested, in a [public demo](https://eoinforker.github.io/orbe-site/demo/) on sample data; not yet live.
 <br clear="left">
 
-- A deals assistant that drafts and counters inside the creator's limits, cites every number from their own data, and never accepts or sends without their tap.
+- Hand it off: an agent that negotiates inside each creator's rules, and runs across a manager's whole roster with one approvals queue.
+- Free tools that bring creators in: a rating for every upload against creators the same size, and a verified record brands can trust.
 - Sponsorship detection across podcasts, newsletters and YouTube, measured at 96% precision on a hand-checked sample of real podcast show notes.
-- A server-side video pipeline: transcripts, moments ranked against creators the same size, clips that never cut a paid read, and articles that only say what was said.
-- Teams with owner sign-off on money, consent and rights, and twelve MCP tools so an AI agent can rate, price or check delivery instead of guessing.
-
-<a href="https://eoinforker.github.io/orbe-site/"><img src="orbe-console.webp" alt="The Orbe console home: a soft painted sky band, the headline Make something worth backing., a composer and three quick starts, with made-up demo data" width="100%"></a>
+- An API and thirteen MCP tools, so any brand, agent or person can deal through it.
 
 <a href="https://idyll.day"><img src="idyll.svg" alt="Idyll: a cygnet printed in halftone dots" width="56" align="left" hspace="14"></a>
 
